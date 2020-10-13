@@ -14,7 +14,7 @@ We gonna try to find 20 in this node tree.
 
 The right node, which is 15, will become a middle node which will also have a left and a right node. The right node will be *20* and the left node will be 13 (For example).
 
-The left node will also have a right and a left node for itself. Its left not will be 3 and his right node will be 8 (For example).
+The left node will also have a right and a left node for itself. Its left node will be 3 and his right node will be 8 (For example).
 
 We found 20 in the node tree, but it won't always be that easy. This was only an example.
 
