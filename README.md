@@ -18,6 +18,6 @@ The left node will also have a right and a left node for itself. Its left not wi
 
 We found 20 in the node tree, but it won't always be that easy. This was only an example.
 
-This is an example of ![**A Node Tree**](https://www.geeksforgeeks.org/print-leaf-nodes-left-right-binary-tree)
+This is an example of ![**A Node Tree**](https://en.wikipedia.org/wiki/Tree_(data_structure))
 
 Good luck on understanding my say lol.
